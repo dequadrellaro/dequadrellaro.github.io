@@ -1,4 +1,4 @@
-Hi! I am a Doctoral Student at the University of Helsinki under the supervision of [Fan Yang](https://sites.google.com/site/fanyanghp/) and [Juha Kontinen](https://www.mv.helsinki.fi/home/jkontine/). I am interested in dependence logic, inquisitive logic, universal algebra and duality theory. Previously, I studied Mathematical Logic at the University of Amsterdam and Philosophy at the University of Milan.
+Hi! I am a Doctoral Student at the University of Helsinki under the supervision of [Fan Yang](https://sites.google.com/site/fanyanghp/) and [Juha Kontinen](https://www.mv.helsinki.fi/home/jkontine/). I am interested in dependence logic, inquisitive logic, universal algebra and duality theory. I studied Mathematical Logic at the University of Amsterdam and Philosophy at the University of Milan.
 
 ## Publications
 
