@@ -5,7 +5,8 @@ I am a Doctoral Student at the University of Helsinki under the supervision of [
 - Quadrellaro, Davide Emilio. “Epistemic Logic and the Problem of Epistemic Closure”. In: Rivista Italiana di
 Filosofia Analitica Junior 7.2 (2016), pp. 1–14. DOI: 10.13130/2037-4445/7957.
 
-– Frege e Husserl: un confronto fra due teorie del significato. In: Rivista Italiana di Filosofia Analitica Junior
+
+- Frege e Husserl: un confronto fra due teorie del significato. In: Rivista Italiana di Filosofia Analitica Junior
 7.1 (2016), pp. 1–21. DOI: 10.13130/2037-4445/7114.
 
 
