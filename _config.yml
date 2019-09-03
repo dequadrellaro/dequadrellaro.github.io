@@ -1,4 +1,6 @@
-title: Davide Emilio Quadrellaro
-description: Exactum, Room A414 Pietari Kalmin katu 5 Kumpla Campus, University of Helsinki. Email: davide.quadrellaro (at) gmail.com
-logo: CNV00000076.jpg
+title: Minimal theme
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
 theme: jekyll-theme-minimal
