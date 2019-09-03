@@ -14,6 +14,9 @@ Filosofia Analitica Junior 7.2 (2016).
 - Lattices of Intermediate Theories via Ruitenburg Theorem (with Gianluca Grilletti), TbiLLC 2019, 17/09/2019.
 
 
+- Are Diagrams Formal Proofs?, University Vita-Salute San Raffaele, FilMat Graduate Conference, Milan, 18/07/2019.
+
+
 - An Algebraic Semantics for Inquisitive Propositional Logic, Université du Luxembourg, 23/05/2019.
 
 
