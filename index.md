@@ -11,7 +11,7 @@ Filosofia Analitica Junior 7.2 (2016), pp. 1–14.
 
 ## Talks
 
-- Lattices of Intermediate Theories via Ruitenburg Theorem, TbiLLC 2019, 17/09/2019.
+- Lattices of Intermediate Theories via Ruitenburg Theorem (with Gianluca Grilletti), TbiLLC 2019, 17/09/2019.
 
 
 - An Algebraic Semantics for Inquisitive Propositional Logic, Université du Luxembourg, 23/05/2019.
