@@ -11,6 +11,8 @@ Filosofia Analitica Junior 7.2 (2016).
 
 ## Talks
 
+- Lattices of _DNA_ logics and applications to Inquisitive Logic, Logic Seminar, University of Helsinki, 24/09/2019.
+
 - Lattices of Intermediate Theories via Ruitenburg Theorem (with Gianluca Grilletti), TbiLLC 2019, 17/09/2019.
 
 
