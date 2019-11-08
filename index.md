@@ -1,6 +1,6 @@
 Hi! I am a Doctoral Student at the University of Helsinki under the supervision of [Fan Yang](https://sites.google.com/site/fanyanghp/) and [Juha Kontinen](https://www.mv.helsinki.fi/home/jkontine/). 
 
-My current research focuses mostly on the algebraic semantics of dependence logic and related team logics. More generally, I am interested in algebraic logic, universal algebra and duality theory.
+My current research focuses mostly on the algebraic semantics of dependence logic and related team logics. More generally, I am interested in algebraic logic, universal algebra and model theory.
 
 I am also interested in history of ideas, especially in history of mathematics and history of philosophy. I studied Mathematical Logic at the University of Amsterdam and Philosophy at the University of Milan.
 
