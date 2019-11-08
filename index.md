@@ -2,11 +2,11 @@ Hi! I am a Doctoral Student at the University of Helsinki under the supervision 
 
 ## Publications
 
-- Quadrellaro, Davide Emilio. [“Epistemic Logic and the Problem of Epistemic Closure”](https://riviste.unimi.it/index.php/rifanalitica/article/view/11089). In: Rivista Italiana di
-Filosofia Analitica Junior 7.2 (2016).
+- Lattices of _DNA_-Logics and Algebraic Semantics of Inquisitive Logic, MsC Thesis, University of Amsterdam, 2019.
 
-- Quadrellaro, Davide Emilio. [Frege e Husserl: un confronto fra due teorie del significato](https://riviste.unimi.it/index.php/rifanalitica/article/view/7114). In: Rivista Italiana di Filosofia Analitica Junior
-7.1 (2016).
+- [“Epistemic Logic and the Problem of Epistemic Closure”](https://riviste.unimi.it/index.php/rifanalitica/article/view/11089), Rivista Italiana di Filosofia Analitica Junior, 7.2, 2016.
+
+-  [Frege e Husserl: un confronto fra due teorie del significato](https://riviste.unimi.it/index.php/rifanalitica/article/view/7114), Rivista Italiana di Filosofia Analitica Junior, 7.1, 2016.
 
 
 ## Talks
