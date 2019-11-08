@@ -1,4 +1,4 @@
-Hi! I am a Doctoral Student at the [Logic Group](https://wiki.helsinki.fi/display/Logic/Home) of the University of Helsinki under the supervision of [Fan Yang](https://sites.google.com/site/fanyanghp/) and [Juha Kontinen](https://www.mv.helsinki.fi/home/jkontine/). 
+Hi! I am a Doctoral Student at the [Helsinki Logic Group](https://wiki.helsinki.fi/display/Logic/Home) under the supervision of [Fan Yang](https://sites.google.com/site/fanyanghp/) and [Juha Kontinen](https://www.mv.helsinki.fi/home/jkontine/). 
 
 My current research focuses on the algebraic semantics of dependence logic and related team logics. More generally, I am interested in algebraic logic, universal algebra and model theory.
 
