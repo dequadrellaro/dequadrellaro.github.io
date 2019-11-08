@@ -6,7 +6,7 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 ## Publications
 
-- Lattices of _DNA_-Logics and Algebraic Semantics of Inquisitive Logic, MsC Thesis, University of Amsterdam, 2019.
+- Lattices of _DNA_-Logics and Algebraic Semantics of Inquisitive Logic, MSc Thesis, University of Amsterdam, 2019.
 
 - [“Epistemic Logic and the Problem of Epistemic Closure”](https://riviste.unimi.it/index.php/rifanalitica/article/view/11089), Rivista Italiana di Filosofia Analitica Junior, 7.2, 2016.
 
