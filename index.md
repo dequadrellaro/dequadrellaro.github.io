@@ -1,4 +1,4 @@
-Hi! I am a Doctoral Student at the University of Helsinki under the supervision of [Fan Yang](https://sites.google.com/site/fanyanghp/) and [Juha Kontinen](https://www.mv.helsinki.fi/home/jkontine/). My research area revolves around dependence logic, inquisitive logic, universal algebra and duality theory. I am also interested in history of ideas, especially in history of mathematics and history of philosophy. I studied Mathematical Logic at the University of Amsterdam and Philosophy at the University of Milan.
+Hi! I am a Doctoral Student at the University of Helsinki under the supervision of [Fan Yang](https://sites.google.com/site/fanyanghp/) and [Juha Kontinen](https://www.mv.helsinki.fi/home/jkontine/). My current research focuses on dependence logic and related team logics. More generally, I am interested in algebraic logic, universal algebra and duality theory. I am also interested in history of ideas, especially in history of mathematics and history of philosophy. I studied Mathematical Logic at the University of Amsterdam and Philosophy at the University of Milan.
 
 ## Publications
 
@@ -35,3 +35,8 @@ Filosofia Analitica Junior 7.2 (2016).
 
 			
 - È  legittimo applicare categorie morali alle opere finzionali? Due argomenti a favore, Seminario di filosofia della letteratura, Università degli Studi di Milano, 21/12/16.
+
+
+## Teaching
+
+- Teaching Assistant, Dependence Logic I, Autumn 2019.
