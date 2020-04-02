@@ -8,6 +8,7 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 ## Publications
 
+- [Lattices of Intermediate Theories via Ruitenburg's Theorem ](document(3)) (with Gianluca Grilletti), Tbilisi Symposium on Language, Logic and Computation 2019 Proceedings.
 - [Lattices of _DNA_-Logics and Algebraic Semantics of Inquisitive Logic](https://eprints.illc.uva.nl/1722/1/MoL-2019-25.text.pdf), MSc Thesis, University of Amsterdam, 2019.
 
 - [Epistemic Logic and the Problem of Epistemic Closure](https://riviste.unimi.it/index.php/rifanalitica/article/view/11089), Rivista Italiana di Filosofia Analitica Junior, 7.2, 2016.
@@ -16,6 +17,7 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 
 ## Talks
+- Algebraic semantics for Propositional Dependence Logic, Research Seminar on Logic and Discrete Mathematics, University of Tampere, 03/04/2020.
 
 - Lattices of _DNA_-logics and applications to Inquisitive Logic, Logic Seminar, University of Helsinki, 24/09/2019.
 
