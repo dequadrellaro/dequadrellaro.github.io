@@ -18,6 +18,9 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 
 ## Talks
+
+- Algebraic Semantics for Propositional Dependence Logic, Logic Seminar, University of Helsinki, 08/04/2020.
+
 - Algebraic Semantics for Propositional Dependence Logic, Research Seminar on Logic and Discrete Mathematics, University of Tampere, 03/04/2020.
 
 - Lattices of _DNA_-logics and applications to Inquisitive Logic, Logic Seminar, University of Helsinki, 24/09/2019.
