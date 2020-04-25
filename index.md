@@ -8,7 +8,7 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 ## Publications
 
-- An Algebraic Approach to Inquisitive and _DNA_-Logics  (with Nick Bezhanishvili and Gianluca Grilletti), Tbilisi Symposium on Language, Logic and Computation 2019 Proceedings. ([ILLC preprint](https://staff.science.uva.nl/n.bezhanishvili/Papers/InqDNA.pdf))
+- An Algebraic Approach to Inquisitive and _DNA_-Logics  (with Nick Bezhanishvili and Gianluca Grilletti), Submitted. ([ILLC preprint](https://staff.science.uva.nl/n.bezhanishvili/Papers/InqDNA.pdf))
 
 - Lattices of Intermediate Theories via Ruitenburg's Theorem  (with Gianluca Grilletti), Tbilisi Symposium on Language, Logic and Computation 2019 Proceedings. ([arXiv preprint](https://arxiv.org/abs/2004.00989))
 
