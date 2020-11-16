@@ -21,6 +21,10 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 ## Talks
 
+- Algebraic semantics of intuitionistic inquisitive and dependence logic, Advances in Modal Logic, University of Helsinki, 24/08/2020.
+
+- Algebraic Semantics for Propositional Dependence Logic, LoDe Seminar, 11/08/2020.
+
 - Algebraic Semantics for Propositional Dependence Logic, Logic Seminar, University of Helsinki, 08/04/2020.
 
 - Algebraic Semantics for Propositional Dependence Logic, Research Seminar on Logic and Discrete Mathematics, University of Tampere, 03/04/2020.
