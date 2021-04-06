@@ -8,6 +8,8 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 ## Publications
 
+- On Intermediate Inquisitive and Dependence Logics: An Algebraic Study ([arXiv preprint](https://arxiv.org/abs/2104.00981))
+
 - An Algebraic Approach to Inquisitive and _DNA_-Logics  (with Nick Bezhanishvili and Gianluca Grilletti), Submitted. ([ILLC preprint](https://eprints.illc.uva.nl/1739/1/Paper.pdf))
 
 - Lattices of Intermediate Theories via Ruitenburg's Theorem  (with Gianluca Grilletti), Tbilisi Symposium on Language, Logic and Computation 2019 Proceedings. ([arXiv preprint](https://arxiv.org/abs/2004.00989))
@@ -56,5 +58,7 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 
 ## Teaching
+
+- Teaching Assistant, Elements of Set Theory, Spring 2021.
 
 - Teaching Assistant, Dependence Logic I, Autumn 2019.
