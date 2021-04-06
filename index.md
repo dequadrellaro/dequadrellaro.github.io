@@ -8,7 +8,7 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 ## Publications
 
-- On Intermediate Inquisitive and Dependence Logics: An Algebraic Study ([arXiv preprint](https://arxiv.org/abs/2104.00981))
+- On Intermediate Inquisitive and Dependence Logics: An Algebraic Study, Submitted. ([arXiv preprint](https://arxiv.org/abs/2104.00981))
 
 - An Algebraic Approach to Inquisitive and _DNA_-Logics  (with Nick Bezhanishvili and Gianluca Grilletti), Submitted. ([ILLC preprint](https://eprints.illc.uva.nl/1739/1/Paper.pdf))
 
