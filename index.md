@@ -10,7 +10,7 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 - On Intermediate Inquisitive and Dependence Logics: An Algebraic Study, Submitted. ([arXiv preprint](https://arxiv.org/abs/2104.00981))
 
-- An Algebraic Approach to Inquisitive and _DNA_-Logics, Nick Bezhanishvili, Gianluca Grilletti and Davide Emilio Quadrellaro, The Review of Symbolic Logic. ([Published Version](https://www.doi.org/10.1017/S175502032100054X))([ILLC preprint](https://eprints.illc.uva.nl/1739/1/Paper.pdf))
+- ([An Algebraic Approach to Inquisitive and _DNA_-Logics](https://www.doi.org/10.1017/S175502032100054X)), Nick Bezhanishvili, Gianluca Grilletti and Davide Emilio Quadrellaro, The Review of Symbolic Logic. ([ILLC preprint](https://eprints.illc.uva.nl/1739/1/Paper.pdf))
 
 - Lattices of Intermediate Theories via Ruitenburg's Theorem  (with Gianluca Grilletti), Tbilisi Symposium on Language, Logic and Computation 2019 Proceedings. ([arXiv preprint](https://arxiv.org/abs/2004.00989))
 
