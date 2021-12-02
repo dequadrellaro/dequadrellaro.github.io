@@ -23,7 +23,7 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 ## Talks
 
-- Algebraizability for non-standard logics, , with Georgi Nakov, LoDe Seminar, ESSLI 2021, 11/08/2021.
+- Algebraizability for non-standard logics, with Georgi Nakov, LoDe Seminar, ESSLI 2021, 11/08/2021.
 
 - Topological Semantics for Inquisitive and DNA-logics, with Gianluca Grilletti, Logic Colloquium, 22/07/2021.
 
