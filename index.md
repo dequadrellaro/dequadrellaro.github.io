@@ -10,15 +10,15 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 - On Intermediate Inquisitive and Dependence Logics: An Algebraic Study, Davide Emilio Quadrellaro, Submitted. ([arXiv preprint](https://arxiv.org/abs/2104.00981))
 
-- [An Algebraic Approach to Inquisitive and _DNA_-Logics](https://www.doi.org/10.1017/S175502032100054X), Nick Bezhanishvili, Gianluca Grilletti and Davide Emilio Quadrellaro, The Review of Symbolic Logic. ([ILLC preprint](https://eprints.illc.uva.nl/1739/1/Paper.pdf))
+- [An Algebraic Approach to Inquisitive and _DNA_-Logics](https://www.doi.org/10.1017/S175502032100054X), Nick Bezhanishvili, Gianluca Grilletti and Davide Emilio Quadrellaro, _The Review of Symbolic Logic_. ([ILLC preprint](https://eprints.illc.uva.nl/1739/1/Paper.pdf))
 
 - Lattices of Intermediate Theories via Ruitenburg's Theorem, Gianluca Grilletti and Davide Emilio Quadrellaro, Tbilisi Symposium on Language, Logic and Computation 2019 Proceedings. ([arXiv preprint](https://arxiv.org/abs/2004.00989))
 
 - [Lattices of _DNA_-Logics and Algebraic Semantics of Inquisitive Logic](https://eprints.illc.uva.nl/1722/1/MoL-2019-25.text.pdf), Davide Emilio Quadrellaro, MSc Thesis, University of Amsterdam, 2019.
 
-- [Epistemic Logic and the Problem of Epistemic Closure](https://riviste.unimi.it/index.php/rifanalitica/article/view/11089), Davide Emilio Quadrellaro, Rivista Italiana di Filosofia Analitica Junior, 7.2, 2016.
+- [Epistemic Logic and the Problem of Epistemic Closure](https://riviste.unimi.it/index.php/rifanalitica/article/view/11089), Davide Emilio Quadrellaro, _Rivista Italiana di Filosofia Analitica Junior_, 7.2, 2016.
 
--  [Frege e Husserl: un confronto fra due teorie del significato](https://riviste.unimi.it/index.php/rifanalitica/article/view/7114), Davide Emilio Quadrellaro, Rivista Italiana di Filosofia Analitica Junior, 7.1, 2016.
+-  [Frege e Husserl: un confronto fra due teorie del significato](https://riviste.unimi.it/index.php/rifanalitica/article/view/7114), Davide Emilio Quadrellaro, _Rivista Italiana di Filosofia Analitica Junior_, 7.1, 2016.
 
 
 ## Talks
