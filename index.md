@@ -65,6 +65,8 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 ## Teaching
 
+- Teaching Assistant, Computability Theory, Spring 2022.
+
 - Teaching Assistant, Elements of Set Theory, Spring 2021.
 
 - Teaching Assistant, Dependence Logic I, Autumn 2019.
