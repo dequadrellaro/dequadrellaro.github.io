@@ -2,7 +2,7 @@
 
 Hi! I am a Doctoral Student at the [Helsinki Logic Group](https://wiki.helsinki.fi/display/Logic/Home) under the supervision of [Fan Yang](https://sites.google.com/site/fanyanghp/) and [Juha Kontinen](https://www.mv.helsinki.fi/home/jkontine/). 
 
-My current research focuses on model theoretic and algebraic aspects of logics in team semantics. More generally, I am interested in model theory, algebraic logic and universal.
+My current research focuses on model-theoretic and algebraic aspects of logics in team semantics. More generally, I am interested in model theory, algebraic logic and universal.
 
 I am also interested in history of ideas, especially in history of mathematics and history of philosophy. I previously studied Mathematical Logic at the University of Amsterdam and Philosophy at the University of Milan.
 
