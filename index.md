@@ -12,7 +12,7 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 - [An Algebraic Approach to Inquisitive and _DNA_-Logics](https://www.doi.org/10.1017/S175502032100054X), Nick Bezhanishvili, Gianluca Grilletti and Davide Emilio Quadrellaro, _The Review of Symbolic Logic_. ([ILLC preprint](https://eprints.illc.uva.nl/1739/1/Paper.pdf))
 
-- Lattices of Intermediate Theories via Ruitenburg's Theorem, Gianluca Grilletti and Davide Emilio Quadrellaro, Tbilisi Symposium on Language, Logic and Computation 2019 Proceedings. ([arXiv preprint](https://arxiv.org/abs/2004.00989))
+- [Lattices of Intermediate Theories via Ruitenburg's Theorem](https://link.springer.com/chapter/10.1007/978-3-030-98479-3_15), Gianluca Grilletti and Davide Emilio Quadrellaro, Tbilisi Symposium on Language, Logic and Computation 2019 Proceedings. ([arXiv preprint](https://arxiv.org/abs/2004.00989))
 
 - [Lattices of _DNA_-Logics and Algebraic Semantics of Inquisitive Logic](https://eprints.illc.uva.nl/1722/1/MoL-2019-25.text.pdf), Davide Emilio Quadrellaro, MSc Thesis, University of Amsterdam, 2019.
 
