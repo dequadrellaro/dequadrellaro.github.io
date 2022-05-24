@@ -8,7 +8,7 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 ## Publications
 
-- Davide Emilio Quadrellaro, On Intermediate Inquisitive and Dependence Logics: An Algebraic Study, Submitted. ([arXiv preprint](https://arxiv.org/abs/2104.00981))
+- Davide Emilio Quadrellaro. [On Intermediate Inquisitive and Dependence Logics: An Algebraic Study]([https://www.doi.org/10.1017/S175502032100054X](https://www.sciencedirect.com/science/article/pii/S0168007222000586)), _Annals of Pure and Applied Logic_, 2022.
 
 - Nick Bezhanishvili, Gianluca Grilletti and Davide Emilio Quadrellaro. [An Algebraic Approach to Inquisitive and _DNA_-Logics](https://www.doi.org/10.1017/S175502032100054X), _The Review of Symbolic Logic_, 2021, 1-41. ([Helda preprint](https://researchportal.helsinki.fi/files/176225977/An_Algebraic_Approach_to_Inquisitive_and_DNA_Logics.pdf))
 
