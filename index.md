@@ -8,6 +8,10 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 ## Publications
 
+- Gianluca Grilletti, Davide Emilio Quadrellaro. A Topological Approach to Inquisitive and _DNA_-Logics, _In preparation_.
+
+- Georgi Nakov, Davide Emilio Quadrellaro. Algebraizable Weak Logics, _In preparation_. ([arXiv preprint](https://arxiv.org))
+
 - Davide Emilio Quadrellaro. [On Intermediate Inquisitive and Dependence Logics: An Algebraic Study](https://www.sciencedirect.com/science/article/pii/S0168007222000586), _Annals of Pure and Applied Logic_, 2022.
 
 - Nick Bezhanishvili, Gianluca Grilletti and Davide Emilio Quadrellaro. [An Algebraic Approach to Inquisitive and _DNA_-Logics](https://www.doi.org/10.1017/S175502032100054X), _The Review of Symbolic Logic_, 2021, 1-41. ([Helda preprint](https://researchportal.helsinki.fi/files/176225977/An_Algebraic_Approach_to_Inquisitive_and_DNA_Logics.pdf))
@@ -22,6 +26,13 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 
 ## Talks
+- Weak Dependence Logic, PhDs in Logic XIII, ogic Seminar, University of Helsinki, 19/09/2022.
+
+- Types in Weak Dependence Logic, PhDs in Logic XIII, Torino, 07/09/2022.
+
+- Compactness and Types in Logics of Dependence, with Joni Puljujärvi, Logic Colloquium, Reykjavik, 01/07/2022.
+
+- Algebraizable Weak Logics, with Georgi Nakov, TACL, Coimbra, 21/06/2022.
 
 - Compactness and Types in Team Semantics, with Joni Puljujärvi, Logic Working Group, Università di Torino, 28/01/2022.
 
