@@ -26,7 +26,7 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 
 ## Talks
-- Weak Dependence Logic, PhDs in Logic XIII, ogic Seminar, University of Helsinki, 19/09/2022.
+- Weak Dependence Logic, Logic Seminar, University of Helsinki, 19/09/2022.
 
 - Types in Weak Dependence Logic, PhDs in Logic XIII, Torino, 07/09/2022.
 
