@@ -8,7 +8,7 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 - Gianluca Grilletti, Davide Emilio Quadrellaro. A Topological Approach to Inquisitive and _DNA_-Logics, _In preparation_.
 
-- Georgi Nakov, Davide Emilio Quadrellaro. Algebraizable Weak Logics, _In preparation_. ([arXiv preprint](https://arxiv.org/abs/2210.06047))
+- Georgi Nakov, Davide Emilio Quadrellaro. Algebraizable Weak Logics, _Submitted_. ([arXiv preprint](https://arxiv.org/abs/2210.06047))
 
 - Davide Emilio Quadrellaro. [On Intermediate Inquisitive and Dependence Logics: An Algebraic Study](https://www.sciencedirect.com/science/article/pii/S0168007222000586), _Annals of Pure and Applied Logic_, 2022.
 
