@@ -6,7 +6,9 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 ## Publications
 
-- Gianluca Grilletti, Davide Emilio Quadrellaro. A Topological Approach to Inquisitive and _DNA_-Logics, _In preparation_.
+- Gianluca Grilletti, Davide Emilio Quadrellaro. Esakia Duals of (Finite) Regular Heyting Algebras, _In preparation_.
+
+- Joni Puljujärvi, Davide Emilio Quadrellaro. Compactness in Team Semantics, _In preparation_.
 
 - Georgi Nakov, Davide Emilio Quadrellaro. Algebraizable Weak Logics, _Submitted_. ([arXiv preprint](https://arxiv.org/abs/2210.06047))
 
