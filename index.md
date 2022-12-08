@@ -8,7 +8,7 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 - Gianluca Grilletti, Davide Emilio Quadrellaro. Esakia Duals of Regular Heyting Algebras, _In preparation_.
 
-- Joni Puljujärvi, Davide Emilio Quadrellaro. Compactness in Team Semantics, _In preparation_.
+- Joni Puljujärvi, Davide Emilio Quadrellaro. Compactness in Team Semantics, _Submitted_. ([arXiv preprint]([https://arxiv.org/abs/2210.06047](https://arxiv.org/abs/2212.03677)))
 
 - Georgi Nakov, Davide Emilio Quadrellaro. Algebraizable Weak Logics, _Submitted_. ([arXiv preprint](https://arxiv.org/abs/2210.06047))
 
