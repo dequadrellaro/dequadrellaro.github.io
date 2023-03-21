@@ -2,8 +2,6 @@ Hi! I am a Doctoral Student at the [Helsinki Logic Group](https://wiki.helsinki.
 
 My current research focuses on model-theoretic and algebraic aspects of logics over team semantics. More generally, I am interested in model theory, algebraic logic and universal algebra.
 
-I am also interested in history of ideas, especially in history of mathematics and history of philosophy. I previously studied Mathematical Logic at the University of Amsterdam and Philosophy at the University of Milan.
-
 ## Publications
 
 - Gianluca Grilletti, Davide Emilio Quadrellaro. Esakia Duals of Regular Heyting Algebras, _Submitted_. ([arXiv preprint](https://arxiv.org/abs/2303.11246))
