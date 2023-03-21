@@ -6,7 +6,7 @@ I am also interested in history of ideas, especially in history of mathematics a
 
 ## Publications
 
-- Gianluca Grilletti, Davide Emilio Quadrellaro. Esakia Duals of Regular Heyting Algebras, _In preparation_.
+- Gianluca Grilletti, Davide Emilio Quadrellaro. Esakia Duals of Regular Heyting Algebras, _Submitted_. ([arXiv preprint](https://arxiv.org/abs/2303.11246))
 
 - Joni Puljujärvi, Davide Emilio Quadrellaro. Compactness in Team Semantics, _Submitted_. ([arXiv preprint](https://arxiv.org/abs/2212.03677))
 
