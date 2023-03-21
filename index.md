@@ -5,7 +5,7 @@ My current research focuses on model-theoretic and algebraic aspects of logics o
 - Orcid: 0000-0002-3750-3627
 - [Preprints on arXiv](https://arxiv.org/search/?searchtype=author&query=Quadrellaro%2C+D+E)
 - [zbMth](https://zbmath.org/authors/quadrellaro.davide-emilio)
-- [dblp]([https://zbmath.org/authors/quadrellaro.davide-emilio](https://dblp.org/pid/317/7843.html))
+- [dblp](https://dblp.org/pid/317/7843.html)
 
 ### Publications
 
