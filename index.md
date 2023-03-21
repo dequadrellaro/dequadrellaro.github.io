@@ -9,10 +9,12 @@ My Orcid ID is 0000-0002-3750-3627. My recent preprints are available in [arXiv]
 - Gianluca Grilletti, Davide Emilio Quadrellaro. _Esakia Duals of Regular Heyting Algebras_, _Submitted_. ([arXiv preprint](https://arxiv.org/abs/2303.11246))
 - Joni Puljujärvi, Davide Emilio Quadrellaro. _Compactness in Team Semantics_, _Submitted_. ([arXiv preprint](https://arxiv.org/abs/2212.03677))
 - Georgi Nakov, Davide Emilio Quadrellaro. _Algebraizable Weak Logics_, _Submitted_. ([arXiv preprint](https://arxiv.org/abs/2210.06047))
-- Davide Emilio Quadrellaro (2022). [_On Intermediate Inquisitive and Dependence Logics: An Algebraic Study_](https://www.sciencedirect.com/science/article/pii/S0168007222000586). Annals of Pure and Applied Logic 173 (10):103143.
 
 #### Journal Articles
+- Davide Emilio Quadrellaro (2022). [_On Intermediate Inquisitive and Dependence Logics: An Algebraic Study_](https://www.sciencedirect.com/science/article/pii/S0168007222000586). Annals of Pure and Applied Logic 173 (10):103143.
 - Nick Bezhanishvili, Gianluca Grilletti and Davide Emilio Quadrellaro (2022). [_An Algebraic Approach to Inquisitive and _DNA_-Logics_](https://www.doi.org/10.1017/S175502032100054X), _The Review of Symbolic Logic_, 15(4), 950-990. doi:10.1017/S175502032100054X ([Helda preprint](https://researchportal.helsinki.fi/files/176225977/An_Algebraic_Approach_to_Inquisitive_and_DNA_Logics.pdf))
+
+#### Refereed Conference Proceedings
 - Gianluca Grilletti, Davide Emilio Quadrellaro (2022). [_Lattices of Intermediate Theories via Ruitenburg's Theorem_](https://doi.org/10.1007/978-3-030-98479-3_15). In: Özgün, A., Zinova, Y. (eds) Language, Logic, and Computation. TbiLLC 2019. Lecture Notes in Computer Science, vol 13206. Springer, Cham. ([arXiv preprint](https://arxiv.org/abs/2004.00989))
 
 #### Thesis and Student Papers
