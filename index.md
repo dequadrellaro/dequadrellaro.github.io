@@ -1,7 +1,5 @@
 Hi! I am a Doctoral Student at the [Helsinki Logic Group](https://wiki.helsinki.fi/display/Logic/Home) under the supervision of [Fan Yang](https://sites.google.com/site/fanyanghp/) and [Juha Kontinen](https://www.mv.helsinki.fi/home/jkontine/). 
 
-### Research
-
 My current research focuses on model-theoretic and algebraic aspects of logics over team semantics. More generally, I am interested in model theory, algebraic logic and universal algebra.
 
 - Orcid: 0000-0002-3750-3627
