@@ -2,12 +2,11 @@ Hi! I am a Doctoral Student at the [Helsinki Logic Group](https://wiki.helsinki.
 
 My current research focuses on model-theoretic and algebraic aspects of logics over team semantics. More generally, I am interested in model theory, algebraic logic and universal algebra.
 
+### Publications
 - Orcid: 0000-0002-3750-3627
 - [Preprints on arXiv](https://arxiv.org/search/?searchtype=author&query=Quadrellaro%2C+D+E)
 - [zbMth](https://zbmath.org/authors/quadrellaro.davide-emilio)
 - [dblp](https://dblp.org/pid/317/7843.html)
-
-### Publications
 
 #### Recent Works
 - Gianluca Grilletti, Davide Emilio Quadrellaro. _Esakia Duals of Regular Heyting Algebras_, _Submitted_. ([arXiv preprint](https://arxiv.org/abs/2303.11246))
@@ -26,7 +25,6 @@ My current research focuses on model-theoretic and algebraic aspects of logics o
 
 
 ### Teaching
-
 - _Algebra II_ (2023), teaching assistant. 
 - _Computability Theory_, (2022), teaching assistant. 
 - _Elements of Set Theory_, (2021), teaching assistant. 
