@@ -25,7 +25,7 @@ My current research focuses on model-theoretic and algebraic aspects of logics o
 
 ## Teaching
 
-- _Algebra II_, Spring 2023: Teaching Assistant. 
-- _Computability Theory_, Spring 2022: Teaching Assistant. 
-- _Elements of Set Theory_, Spring 2021: Teaching Assistant. 
-- _Dependence Logic I_, Autumn 2019:  Teaching Assistant.
+- _Algebra II_ (2023), teaching assistant. 
+- _Computability Theory_, (2022), teaching assistant. 
+- _Elements of Set Theory_, (2021), teaching assistant. 
+- _Dependence Logic I_, (2019), teaching assistant. 
