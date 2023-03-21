@@ -2,12 +2,9 @@ Hi! I am a Doctoral Student at the [Helsinki Logic Group](https://wiki.helsinki.
 
 My current research focuses on model-theoretic and algebraic aspects of logics over team semantics. More generally, I am interested in model theory, algebraic logic and universal algebra.
 
-### Publications
-- Orcid: 0000-0002-3750-3627
-- [Preprints on arXiv](https://arxiv.org/search/?searchtype=author&query=Quadrellaro%2C+D+E)
-- [zbMth](https://zbmath.org/authors/quadrellaro.davide-emilio)
-- [dblp](https://dblp.org/pid/317/7843.html)
+My Orcid ID is 0000-0002-3750-3627. My recent preprints are available in [arXiv](https://arxiv.org/search/?searchtype=author&query=Quadrellaro%2C+D+E) and my published work is mostly listed in [zbMath](https://zbmath.org/authors/quadrellaro.davide-emilio) and  [dblp](https://dblp.org/pid/317/7843.html)
 
+### Publications
 #### Recent Works
 - Gianluca Grilletti, Davide Emilio Quadrellaro. _Esakia Duals of Regular Heyting Algebras_, _Submitted_. ([arXiv preprint](https://arxiv.org/abs/2303.11246))
 - Joni Puljujärvi, Davide Emilio Quadrellaro. _Compactness in Team Semantics_, _Submitted_. ([arXiv preprint](https://arxiv.org/abs/2212.03677))
@@ -22,7 +19,6 @@ My current research focuses on model-theoretic and algebraic aspects of logics o
 - Davide Emilio Quadrellaro (2019). [_Lattices of _DNA_-Logics and Algebraic Semantics of Inquisitive Logic_](https://eprints.illc.uva.nl/1722/1/MoL-2019-25.text.pdf), MSc Thesis, University of Amsterdam.
 - Davide Emilio Quadrellaro (2016). [_Epistemic Logic and the Problem of Epistemic Closure_](https://riviste.unimi.it/index.php/rifanalitica/article/view/11089), _Rivista Italiana di Filosofia Analitica Junior_, 7.2.
 - Davide Emilio Quadrellaro (2016). [_Frege e Husserl: un confronto fra due teorie del significato_](https://riviste.unimi.it/index.php/rifanalitica/article/view/7114), _Rivista Italiana di Filosofia Analitica Junior_, 7.1.
-
 
 ### Teaching
 - _Algebra II_ (2023), teaching assistant. 
