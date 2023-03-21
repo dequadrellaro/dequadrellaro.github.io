@@ -28,6 +28,6 @@ My Orcid ID is [0000-0002-3750-3627](https://orcid.org/0000-0002-3750-3627). My 
 
 ### Teaching
 - _Algebra II_ (2023), teaching assistant. 
-- _Computability Theory_, (2022), teaching assistant. 
-- _Elements of Set Theory_, (2021), teaching assistant. 
-- _Dependence Logic I_, (2019), teaching assistant. 
+- _Computability Theory_ (2022), teaching assistant. 
+- _Elements of Set Theory_ (2021), teaching assistant. 
+- _Dependence Logic I_ (2019), teaching assistant. 
