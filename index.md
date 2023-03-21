@@ -2,7 +2,7 @@ Hi! I am a Doctoral Student at the [Helsinki Logic Group](https://wiki.helsinki.
 
 My current research focuses on model-theoretic and algebraic aspects of logics over team semantics. More generally, I am interested in model theory, algebraic logic and universal algebra.
 
-My Orcid ID is 0000-0002-3750-3627. My recent preprints are available in [arXiv](https://arxiv.org/search/?searchtype=author&query=Quadrellaro%2C+D+E) and my published work is mostly listed in [zbMath](https://zbmath.org/authors/quadrellaro.davide-emilio) and  [dblp](https://dblp.org/pid/317/7843.html)
+My Orcid ID is 0000-0002-3750-3627. My recent preprints are available in [arXiv](https://arxiv.org/search/?searchtype=author&query=Quadrellaro%2C+D+E) and my published work is mostly listed in [zbMath](https://zbmath.org/authors/quadrellaro.davide-emilio) and  [dblp](https://dblp.org/pid/317/7843.html).
 
 ### Publications
 #### Recent Works
