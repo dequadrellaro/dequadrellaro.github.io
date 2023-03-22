@@ -17,7 +17,7 @@ My Orcid ID is [0000-0002-3750-3627](https://orcid.org/0000-0002-3750-3627). My 
 
 
 #### Conference Proceedings
-0. Gianluca Grilletti, Davide Emilio Quadrellaro (2022). [_Lattices of Intermediate Theories via Ruitenburg's Theorem_](https://doi.org/10.1007/978-3-030-98479-3_15). In: Özgün, A., Zinova, Y. (eds) _Language, Logic, and Computation. TbiLLC 2019. Lecture Notes in Computer Science_, vol 13206. Springer, Cham. ([arXiv preprint](https://arxiv.org/abs/2004.00989))
+0. Gianluca Grilletti, Davide Emilio Quadrellaro (2022). [Lattices of Intermediate Theories via Ruitenburg's Theorem](https://doi.org/10.1007/978-3-030-98479-3_15). In: Özgün, A., Zinova, Y. (eds) _Language, Logic, and Computation. TbiLLC 2019. Lecture Notes in Computer Science_, vol 13206. Springer, Cham. ([arXiv preprint](https://arxiv.org/abs/2004.00989))
 {: reversed="reversed"}
 
 #### Thesis and Student Papers
