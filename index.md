@@ -6,6 +6,7 @@ My Orcid ID is [0000-0002-3750-3627](https://orcid.org/0000-0002-3750-3627). My 
 
 ### Publications
 #### Recent Works
+- Tapani Hyttinen, Davide Emilio Quadrellaro. [Varieties of strictly n-generated Heyting algebras](https://arxiv.org/abs/2306.12250), _Submitted_.
 - Gianluca Grilletti, Davide Emilio Quadrellaro. [Esakia Duals of Regular Heyting Algebras](https://arxiv.org/abs/2303.11246), _Submitted_.
 - Joni Puljujärvi, Davide Emilio Quadrellaro. [Compactness in Team Semantics](https://arxiv.org/abs/2212.03677), _Submitted_.
 - Georgi Nakov, Davide Emilio Quadrellaro. [Algebraizable Weak Logics](https://arxiv.org/abs/2210.06047), _Submitted_.
