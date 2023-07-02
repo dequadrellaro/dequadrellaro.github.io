@@ -22,7 +22,7 @@ My Orcid ID is [0000-0002-3750-3627](https://orcid.org/0000-0002-3750-3627). My 
 {: reversed="reversed"}
 
 #### Thesis and Student Papers
-0. Davide Emilio Quadrellaro (2019). [Lattices of DNA-Logics and Algebraic Semantics of Inquisitive Logic](https://eprints.illc.uva.nl/1722/1/MoL-2019-25.text.pdf), MSc Thesis, University of Amsterdam.
+0. Davide Emilio Quadrellaro (2019). [Lattices of DNA-Logics and Algebraic Semantics of Inquisitive Logic](https://eprints.illc.uva.nl/1722/1/MoL-2019-25.text.pdf), MSc Thesis, University of Amsterdam. (Awarded AILA’s [Best Thesis in Logic](https://www.ailalogica.it/premi/premio-32) prize in 2019)
 0. Davide Emilio Quadrellaro (2016). [Epistemic Logic and the Problem of Epistemic Closure](https://riviste.unimi.it/index.php/rifanalitica/article/view/11089), _Rivista Italiana di Filosofia Analitica Junior_, 7.2.
 0. Davide Emilio Quadrellaro (2016). [Frege e Husserl: un confronto fra due teorie del significato](https://riviste.unimi.it/index.php/rifanalitica/article/view/7114), _Rivista Italiana di Filosofia Analitica Junior_, 7.1.
 {: reversed="reversed"}
