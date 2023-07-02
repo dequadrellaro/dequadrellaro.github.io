@@ -39,7 +39,7 @@ My Orcid ID is [0000-0002-3750-3627](https://orcid.org/0000-0002-3750-3627). My 
  <i>Ihr aber, wenn es soweit sein wird  <br>
 Dass der Mensch dem Menschen ein Helfer ist <br>
 Gedenkt unsrer <br>
-Mit Nachsicht. </i> <br>
+Mit Nachsicht. </i> <br> <br>
 
 Bertolt Brecht, "An die Nachgeborenen", 1939.
 </p>
