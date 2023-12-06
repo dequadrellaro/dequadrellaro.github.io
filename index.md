@@ -10,7 +10,7 @@ My Orcid ID is [0000-0002-3750-3627](https://orcid.org/0000-0002-3750-3627). My 
 - Georgi Nakov, Davide Emilio Quadrellaro. [Algebraizable Weak Logics](https://arxiv.org/abs/2210.06047).
 
 #### Journal Articles
-0. Joni Puljujärvi, Davide Emilio Quadrellaro. Compactness in Team Semantics, _Mathematical Logic Quarterly_, To Appear. ([arXiv preprint](https://arxiv.org/abs/2212.03677))
+0. Joni Puljujärvi, Davide Emilio Quadrellaro (2024). Compactness in Team Semantics, _Mathematical Logic Quarterly_, To Appear. ([arXiv preprint](https://arxiv.org/abs/2212.03677))
 0. Gianluca Grilletti, Davide Emilio Quadrellaro (2024). [Esakia Duals of Regular Heyting Algebras](https://doi.org/10.1007/s00012-023-00833-5), _Algebra Universalis_, 85(5).
 0. Davide Emilio Quadrellaro (2022). [On Intermediate Inquisitive and Dependence Logics: An Algebraic Study](https://www.sciencedirect.com/science/article/pii/S0168007222000586), _Annals of Pure and Applied Logic_, 173 (10):103143.
 0. Nick Bezhanishvili, Gianluca Grilletti and Davide Emilio Quadrellaro (2022). [An Algebraic Approach to Inquisitive and DNA-Logics](https://www.doi.org/10.1017/S175502032100054X), _The Review of Symbolic Logic_, 15(4), 950-990. ([Helda preprint](https://researchportal.helsinki.fi/files/176225977/An_Algebraic_Approach_to_Inquisitive_and_DNA_Logics.pdf))
