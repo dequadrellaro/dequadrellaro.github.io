@@ -33,7 +33,3 @@ My Orcid ID is [0000-0002-3750-3627](https://orcid.org/0000-0002-3750-3627). My 
 - _Computability Theory_ (2022), teaching assistant. 
 - _Elements of Set Theory_ (2021), teaching assistant. 
 - _Dependence Logic I_ (2019), teaching assistant.
-
-<br>
-
-[![image](412681694_122093852402168891_1332821637522047790_n-680x408.jpg)](https://www.comitatoilariasalis.it/)
