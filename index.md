@@ -1,8 +1,6 @@
-Hi! I am a Doctoral Student at the [Helsinki Logic Group](https://wiki.helsinki.fi/display/Logic/Home) under the supervision of [Fan Yang](https://sites.google.com/site/fanyanghp/) and [Juha Kontinen](https://www.mv.helsinki.fi/home/jkontine/). 
+Hi! I am a mathematical logician and I am currently a postdoc at the [Turin Logic Group](https://www.logicgroup.altervista.org/torino/index.php?lng=eng). Beforehand, I obtained a PhD in Mathematics from the University of Helsinki under the main supervision of [Fan Yang](https://sites.google.com/site/fanyanghp/).
 
-My current research focuses on model-theoretic and algebraic aspects of logics over team semantics. More generally, I am interested in model theory, algebraic logic and universal algebra.
-
-My Orcid ID is [0000-0002-3750-3627](https://orcid.org/0000-0002-3750-3627). My recent preprints are available in [arXiv](https://arxiv.org/search/?searchtype=author&query=Quadrellaro%2C+D+E) and my published work is generally listed in [zbMath](https://zbmath.org/authors/quadrellaro.davide-emilio) and  [dblp](https://dblp.org/pid/317/7843.html).
+My main research interests are in model theory and (universal) algebra. My recent preprints are available in [arXiv](https://arxiv.org/search/?searchtype=author&query=Quadrellaro%2C+D+E) and my published work is generally listed in [zbMath](https://zbmath.org/authors/quadrellaro.davide-emilio).  My Orcid ID is [0000-0002-3750-3627](https://orcid.org/0000-0002-3750-3627). 
 
 ### Publications
 #### Recent Works
@@ -27,9 +25,3 @@ My Orcid ID is [0000-0002-3750-3627](https://orcid.org/0000-0002-3750-3627). My 
 0. Davide Emilio Quadrellaro (2016). [Epistemic Logic and the Problem of Epistemic Closure](https://riviste.unimi.it/index.php/rifanalitica/article/view/11089). _Rivista Italiana di Filosofia Analitica Junior_, 7.2.
 0. Davide Emilio Quadrellaro (2016). [Frege e Husserl: un confronto fra due teorie del significato](https://riviste.unimi.it/index.php/rifanalitica/article/view/7114). _Rivista Italiana di Filosofia Analitica Junior_, 7.1.
 {: reversed="reversed"}
-
-### Teaching
-- _Algebra II_ (2023), teaching assistant. 
-- _Computability Theory_ (2022), teaching assistant. 
-- _Elements of Set Theory_ (2021), teaching assistant. 
-- _Dependence Logic I_ (2019), teaching assistant.
