@@ -1,4 +1,4 @@
-Hi! I am a mathematical logician and I am currently a postdoc at the [Turin Logic Group](https://www.logicgroup.altervista.org/torino/index.php?lng=eng). Beforehand, I obtained a PhD in Mathematics from the University of Helsinki under the main supervision of [Fan Yang](https://sites.google.com/site/fanyanghp/).
+Hi! I am a mathematical logician, currently a postdoc at the [Turin Logic Group](https://www.logicgroup.altervista.org/torino/index.php?lng=eng). Beforehand, I obtained a PhD in Mathematics from the University of Helsinki under the main supervision of [Fan Yang](https://sites.google.com/site/fanyanghp/).
 
 My main research interests are in model theory and (universal) algebra. My recent preprints are available in [arXiv](https://arxiv.org/search/?searchtype=author&query=Quadrellaro%2C+D+E) and my published work is generally listed in [zbMath](https://zbmath.org/authors/quadrellaro.davide-emilio).  My Orcid ID is [0000-0002-3750-3627](https://orcid.org/0000-0002-3750-3627). 
 
@@ -25,3 +25,11 @@ My main research interests are in model theory and (universal) algebra. My recen
 0. Davide Emilio Quadrellaro (2016). [Epistemic Logic and the Problem of Epistemic Closure](https://riviste.unimi.it/index.php/rifanalitica/article/view/11089). _Rivista Italiana di Filosofia Analitica Junior_, 7.2.
 0. Davide Emilio Quadrellaro (2016). [Frege e Husserl: un confronto fra due teorie del significato](https://riviste.unimi.it/index.php/rifanalitica/article/view/7114). _Rivista Italiana di Filosofia Analitica Junior_, 7.1.
 {: reversed="reversed"}
+
+
+<br>
+
+[![image](412681694_122093852402168891_1332821637522047790_n-680x408.jpg)](https://www.comitatoilariasalis.it/)
+
+
+<br>
