@@ -4,6 +4,7 @@ My main research interests are in model theory and (universal) algebra. My recen
 
 ### Publications
 #### Recent Works
+- Tapani Hyttinen, Joni Puljujärvi, Davide Emilio Quadrellaro. [On Model Theory of Second-Order Objects](https://arxiv.org/abs/2405.03785).
 - Tapani Hyttinen, Davide Emilio Quadrellaro. [Varieties of strictly n-generated Heyting algebras](https://arxiv.org/abs/2306.12250).
 - Georgi Nakov, Davide Emilio Quadrellaro. [Algebraizable Weak Logics](https://arxiv.org/abs/2210.06047).
 
