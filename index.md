@@ -3,8 +3,8 @@ Hi! I am a mathematical logician, currently working as a postdoc at the [Turin L
 My main research interests are in model theory and (universal) algebra. My recent preprints are available in [arXiv](https://arxiv.org/search/?searchtype=author&query=Quadrellaro%2C+D+E) and my published work is generally listed in [zbMath](https://zbmath.org/authors/quadrellaro.davide-emilio).  My Orcid ID is [0000-0002-3750-3627](https://orcid.org/0000-0002-3750-3627). 
 
 ### Preprints
-- Tapani Hyttinen, Joni Puljujärvi, Davide Emilio Quadrellaro. [On Model Theory of Second-Order Objects](https://arxiv.org/abs/2405.03785).
-- Georgi Nakov, Davide Emilio Quadrellaro. [Algebraizable Weak Logics](https://arxiv.org/abs/2210.06047).
+- [On Model Theory of Second-Order Objects](https://arxiv.org/abs/2405.03785) (with Tapani Hyttinen and Joni Puljujärvi)
+- [Algebraizable Weak Logics](https://arxiv.org/abs/2210.06047) (with Georgi Nakov)
 
 ### List of Publications
 
