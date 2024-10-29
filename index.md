@@ -7,7 +7,7 @@ My main research interests are in model theory and (universal) algebra. My recen
 - Georgi Nakov, Davide Emilio Quadrellaro. [Algebraizable Weak Logics](https://arxiv.org/abs/2210.06047).
 
 ### List of Publications
-0. Tapani Hyttinen, Miguel Martins, Tommaso Moraschini, and Davide Emilio Quadrellaro. Strictly n-finite varieties of Heyting algebras (2024). _Journal of Symbolic Logic_. ([arXiv preprint](https://arxiv.org/abs/2306.12250) of a previous version of the paper).
+0. Tapani Hyttinen, Miguel Martins, Tommaso Moraschini, and Davide Emilio Quadrellaro (2024). [Strictly n-finite varieties of Heyting algebras](https://doi.org/10.1017/jsl.2024.48). _The Journal of Symbolic Logic_.
 0. Joni Puljujärvi, Davide Emilio Quadrellaro (2024). [Compactness in Team Semantics](https://onlinelibrary.wiley.com/doi/10.1002/malq.202200072). _Mathematical Logic Quarterly_, 70: 142-161.
 0. Gianluca Grilletti, Davide Emilio Quadrellaro (2024). [Esakia Duals of Regular Heyting Algebras](https://doi.org/10.1007/s00012-023-00833-5). _Algebra Universalis_, 85(5).
 0. Davide Emilio Quadrellaro (2022). [On Intermediate Inquisitive and Dependence Logics: An Algebraic Study](https://www.sciencedirect.com/science/article/pii/S0168007222000586). _Annals of Pure and Applied Logic_, 173 (10):103143.
