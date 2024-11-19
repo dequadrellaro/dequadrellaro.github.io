@@ -3,6 +3,7 @@ Hi! I am a mathematical logician, currently working as a postdoc at the [Turin L
 My main research interests are in model theory and (universal) algebra. My recent preprints are available in [arXiv](https://arxiv.org/search/?searchtype=author&query=Quadrellaro%2C+D+E) and my published work is generally listed in [zbMath](https://zbmath.org/authors/quadrellaro.davide-emilio).  My Orcid ID is [0000-0002-3750-3627](https://orcid.org/0000-0002-3750-3627). 
 
 ### Preprints
+- Gianluca Paolini, Davide Emilio Quadrellaro. [On the Model Theory of Open Incidence Structures: The Rank 2 Case](https://arxiv.org/abs/2411.10792).
 - Tapani Hyttinen, Joni Puljujärvi, Davide Emilio Quadrellaro. [On Model Theory of Second-Order Objects](https://arxiv.org/abs/2405.03785).
 - Georgi Nakov, Davide Emilio Quadrellaro. [Algebraizable Weak Logics](https://arxiv.org/abs/2210.06047).
 
