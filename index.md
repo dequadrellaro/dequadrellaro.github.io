@@ -9,8 +9,8 @@ My main research interests are in model theory and (universal) algebra. My recen
 - Georgi Nakov, D.E. Quadrellaro. [Algebraizable Weak Logics](https://arxiv.org/abs/2210.06047).
 
 ### List of Publications
-0. T. Hyttinen, Joni Puljujärvi, D.E. Quadrellaro. [On Model Theory of Second-Order Objects](https://arxiv.org/abs/2405.03785). To appear in _Annals of Pure and Applied Logic_.
-0. T. Hyttinen, Miguel Martins, Tommaso Moraschini, and D.E. Quadrellaro (2024). [Strictly n-finite varieties of Heyting algebras](https://doi.org/10.1017/jsl.2024.48). _The Journal of Symbolic Logic_.
+0. T. Hyttinen, J. Puljujärvi, D.E. Quadrellaro. [On Model Theory of Second-Order Objects](https://arxiv.org/abs/2405.03785). To appear in _Annals of Pure and Applied Logic_.
+0. T. Hyttinen, M. Martins, T. Moraschini, and D.E. Quadrellaro (2024). [Strictly n-finite varieties of Heyting algebras](https://doi.org/10.1017/jsl.2024.48). _The Journal of Symbolic Logic_.
 0. J. Puljujärvi, D.E. Quadrellaro (2024). [Compactness in Team Semantics](https://onlinelibrary.wiley.com/doi/10.1002/malq.202200072). _Mathematical Logic Quarterly_, 70: 142-161.
 0. G.  Grilletti, D.E. Quadrellaro (2024). [Esakia Duals of Regular Heyting Algebras](https://doi.org/10.1007/s00012-023-00833-5). _Algebra Universalis_, 85(5).
 0. D.E. Quadrellaro (2022). [On Intermediate Inquisitive and Dependence Logics: An Algebraic Study](https://www.sciencedirect.com/science/article/pii/S0168007222000586). _Annals of Pure and Applied Logic_, 173 (10):103143.
