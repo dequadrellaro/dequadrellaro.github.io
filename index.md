@@ -6,11 +6,11 @@ My main research interest is in model theory, and in its applications to (incide
 - [Borel completeness of Tits buildings with no rank 3 residues of spherical type](https://arxiv.org/abs/2510.17630) (with G. Paolini).
 - [A New Construction Principle](https://arxiv.org/abs/2505.10155) (with T. Hyttinen and G. Paolini).
 - [On the Model Theory of Open Incidence Structures: The Rank 2 Case](https://arxiv.org/abs/2411.10792) (with G. Paolini).
-- [Algebraizable Weak Logics](https://arxiv.org/abs/2210.06047) (with G. Nakov).
 
 ### List of Publications
-0. [On Model Theory of Second-Order Objects](https://arxiv.org/abs/2405.03785) (with T. Hyttinen and J. Puljujärvi), To appear in _Annals of Pure and Applied Logic_.
-0. [Strictly n-finite varieties of Heyting algebras](https://doi.org/10.1017/jsl.2024.48) (with T. Hyttinen, M. Martins, T. Moraschini), _The Journal of Symbolic Logic_, 2024.
+0. [Algebraizable Weak Logics](https://arxiv.org/abs/2210.06047) (with G. Nakov), Accepted for publications in _Journal of Symbolic Logic_.
+0. [On Model Theory of Second-Order Objects](https://arxiv.org/abs/2405.03785) (with T. Hyttinen and J. Puljujärvi), Accepted for publications in _Annals of Pure and Applied Logic_.
+0. [Strictly n-finite varieties of Heyting algebras](https://doi.org/10.1017/jsl.2024.48) (with T. Hyttinen, M. Martins, T. Moraschini), _Journal of Symbolic Logic_, 2024.
 0. [Compactness in Team Semantics](https://onlinelibrary.wiley.com/doi/10.1002/malq.202200072) (with J. Puljujärvi), _Mathematical Logic Quarterly_, 70(142-161), 2024.
 0. [Esakia Duals of Regular Heyting Algebras](https://doi.org/10.1007/s00012-023-00833-5) (with G.  Grilletti), _Algebra Universalis_, 85(5), 2024.
 0. [On Intermediate Inquisitive and Dependence Logics: An Algebraic Study](https://www.sciencedirect.com/science/article/pii/S0168007222000586), _Annals of Pure and Applied Logic_, 173 (10), 2022.
