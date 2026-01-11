@@ -14,7 +14,7 @@ My main research interest is in model theory, and in its applications to (incide
 0. [Compactness in Team Semantics](https://onlinelibrary.wiley.com/doi/10.1002/malq.202200072) (with J. Puljujärvi), _Mathematical Logic Quarterly_, 70(142-161), 2024.
 0. [Esakia Duals of Regular Heyting Algebras](https://doi.org/10.1007/s00012-023-00833-5) (with G.  Grilletti), _Algebra Universalis_, 85(5), 2024.
 0. [On Intermediate Inquisitive and Dependence Logics: An Algebraic Study](https://www.sciencedirect.com/science/article/pii/S0168007222000586), _Annals of Pure and Applied Logic_, 173 (10), 2022.
-0. [An Algebraic Approach to Inquisitive and DNA-Logics](https://www.doi.org/10.1017/S175502032100054X) (with N. Bezhanishvili, G.  Grilletti), _The Review of Symbolic Logic_, 15(4), 2022. ([Helda preprint](https://researchportal.helsinki.fi/files/176225977/An_Algebraic_Approach_to_Inquisitive_and_DNA_Logics.pdf))
+0. [An Algebraic Approach to Inquisitive and DNA-Logics](https://www.doi.org/10.1017/S175502032100054X) (with N. Bezhanishvili, G.  Grilletti), _Review of Symbolic Logic_, 15(4), 2022. ([Helda preprint](https://researchportal.helsinki.fi/files/176225977/An_Algebraic_Approach_to_Inquisitive_and_DNA_Logics.pdf))
 0. [Lattices of Intermediate Theories via Ruitenburg's Theorem](https://doi.org/10.1007/978-3-030-98479-3_15) (with G.  Grilletti), In: Özgün, A., Zinova, Y. (eds) _Language, Logic, and Computation. TbiLLC 2019. Lecture Notes in Computer Science_, vol 13206, Springer, Cham, 2022. ([arXiv preprint](https://arxiv.org/abs/2004.00989))
 {: reversed="reversed"}
 
