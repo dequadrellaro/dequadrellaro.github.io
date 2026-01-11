@@ -8,8 +8,8 @@ My main research interest is in model theory, and in its applications to (incide
 - [On the Model Theory of Open Incidence Structures: The Rank 2 Case](https://arxiv.org/abs/2411.10792) (with G. Paolini).
 
 ### List of Publications
-0. [Algebraizable Weak Logics](https://arxiv.org/abs/2210.06047) (with G. Nakov), _Journal of Symbolic Logic_, accepted for publication.
-0. [On Model Theory of Second-Order Objects](https://arxiv.org/abs/2405.03785) (with T. Hyttinen and J. Puljujärvi), _Annals of Pure and Applied Logic_, accepted for publication.
+0. [Algebraizable Weak Logics](https://arxiv.org/abs/2210.06047), with G. Nakov <br> _Journal of Symbolic Logic_, accepted for publication. <br>
+0. [On Model Theory of Second-Order Objects](https://arxiv.org/abs/2405.03785), with T. Hyttinen and J. Puljujärvi <br> _Annals of Pure and Applied Logic_, accepted for publication. <br>
 0. [Strictly n-finite varieties of Heyting algebras](https://doi.org/10.1017/jsl.2024.48) (with T. Hyttinen, M. Martins, T. Moraschini), _Journal of Symbolic Logic_, 2024.
 0. [Compactness in Team Semantics](https://onlinelibrary.wiley.com/doi/10.1002/malq.202200072) (with J. Puljujärvi), _Mathematical Logic Quarterly_, 70(142-161), 2024.
 0. [Esakia Duals of Regular Heyting Algebras](https://doi.org/10.1007/s00012-023-00833-5) (with G.  Grilletti), _Algebra Universalis_, 85(5), 2024.
