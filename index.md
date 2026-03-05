@@ -3,6 +3,7 @@ Hi! I am a mathematical logician, currently working as a postdoc at the [Turin L
 My main research interest is in model theory, and in its applications to (incidence) geometry and (universal) algebra. My recent preprints are available in [arXiv](https://arxiv.org/search/?searchtype=author&query=Quadrellaro%2C+D+E) and my published work is generally listed in [zbMath](https://zbmath.org/authors/quadrellaro.davide-emilio).  My Orcid ID is [0000-0002-3750-3627](https://orcid.org/0000-0002-3750-3627). 
 
 ### Preprints
+- [The Construction Principle and superstability of free objects in varieties of algebras](https://arxiv.org/abs/2603.04067) (with T. Hyttinen and G. Paolini).
 - [Borel completeness of Tits buildings with no rank 3 residues of spherical type](https://arxiv.org/abs/2510.17630) (with G. Paolini).
 - [A New Construction Principle](https://arxiv.org/abs/2505.10155) (with T. Hyttinen and G. Paolini).
 - [On the Model Theory of Open Incidence Structures: The Rank 2 Case](https://arxiv.org/abs/2411.10792) (with G. Paolini).
