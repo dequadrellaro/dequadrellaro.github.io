@@ -5,10 +5,10 @@ My main research interest is in model theory, and in its applications to (incide
 ### Preprints
 - [The Construction Principle and superstability of free objects in varieties of algebras](https://arxiv.org/abs/2603.04067) (with T. Hyttinen and G. Paolini).
 - [Borel completeness of Tits buildings with no rank 3 residues of spherical type](https://arxiv.org/abs/2510.17630) (with G. Paolini).
-- [A New Construction Principle](https://arxiv.org/abs/2505.10155) (with T. Hyttinen and G. Paolini).
 - [On the Model Theory of Open Incidence Structures: The Rank 2 Case](https://arxiv.org/abs/2411.10792) (with G. Paolini).
 
 ### List of Publications
+0. [A New Construction Principle](https://arxiv.org/abs/2505.10155) (with T. Hyttinen and G. Paolini), _Transactions of the Americam Mathematical Society_, accepted for publication.
 0. [Some remarks on Husserl’s _Doppelvortrag_](https://doi.org/10.1007/s00407-026-00367-x), _Archive for History of Exact Sciences_, 2026, 80(13).
 0. [Algebraizable Weak Logics](https://doi.org/10.1017/jsl.2026.10180) (with G. Nakov), _Journal of Symbolic Logic_, 2026 ([arXiv preprint](https://arxiv.org/abs/2210.06047)). 
 0. [On the Model Theory of Second-Order Objects](https://arxiv.org/abs/2405.03785), (with T. Hyttinen and J. Puljujärvi), _Annals of Pure and Applied Logic_, accepted for publication.
