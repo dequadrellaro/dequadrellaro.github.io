@@ -4,11 +4,11 @@ My main research interest is in model theory, and in its applications to (incide
 
 ------------------------------------------
 
-[Publications](/publications)
+[Publications](/publications/)
 
-[Teaching](/teaching)
+[Teaching](/teaching/)
 
-[Miscellanea](/miscellanea)
+[Miscellanea](/miscellanea/)
 
 ----------------------------------------------------------
 
