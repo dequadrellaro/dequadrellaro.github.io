@@ -6,35 +6,35 @@
 /* ---- custom overrides below ---- */
 
 .site-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: baseline;
-  flex-wrap: wrap;
   border-bottom: 1px solid #eee;
   padding-bottom: 0.5em;
   margin-bottom: 1em;
 }
 
-.site-header-title h1 {
+/* Row 1: title (left) + nav (right), always on one line */
+.site-header-top {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 0.5em 1em;
+}
+
+.site-title {
   margin: 0;
   font-size: 1.6em;
 }
 
-.site-header-title img {
-  max-width: 200px;
-  display: block;
-  margin: 0.5em 0;
-}
-
-/* Compact header used on every page except the homepage:
-   hides the photo/description, shrinks the title */
-.site-header.compact .site-header-title h1 {
+/* Compact header used on every page except the homepage: shrink the title */
+.site-header.compact .site-title {
   font-size: 1.2em;
 }
 
-.site-header.compact .site-header-title img,
-.site-header.compact .site-header-title p {
-  display: none;
+/* Row 2: photo + description, homepage only, full width, below row 1 */
+.site-header-media img {
+  max-width: 200px;
+  display: block;
+  margin: 0.5em 0;
 }
 
 .site-nav {
