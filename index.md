@@ -4,7 +4,7 @@ My main research interest is in model theory, and in its applications to (incide
 
 ------------------------------------------
 
-[Publications](https://dequadrellaro.github.io/publications)
+[Publications](/publications)
 
 [Teaching](/teaching/)
 
