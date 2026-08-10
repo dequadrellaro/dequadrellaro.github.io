@@ -9,6 +9,17 @@
   border-bottom: 1px solid #eee;
   padding-bottom: 0.5em;
   margin-bottom: 1em;
+  /* cancel the theme's built-in sidebar behavior (header { width:270px; float:left; position:fixed; }) */
+  float: none;
+  width: auto;
+  position: static;
+}
+
+/* the theme also floats <section> to sit next to that sidebar - cancel that too */
+section {
+  float: none;
+  width: auto;
+  margin: 0;
 }
 
 /* Row 1: title (left) + nav (right), always on one line */
