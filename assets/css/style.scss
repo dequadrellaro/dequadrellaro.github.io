@@ -41,7 +41,22 @@ section {
   font-size: 1.2em;
 }
 
-/* Row 2: photo + description, homepage only, full width, below row 1 */
+/* Row 2: photo+address (left) and bio (right), homepage only, below row 1 */
+.home-intro {
+  display: flex;
+  gap: 2em;
+  align-items: flex-start;
+  flex-wrap: wrap;
+}
+
+.home-intro .site-header-media {
+  flex: 0 0 200px;
+}
+
+.home-intro .site-intro {
+  flex: 1 1 300px;
+}
+
 .site-header-media img {
   max-width: 200px;
   display: block;
