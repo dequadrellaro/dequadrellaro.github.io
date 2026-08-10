@@ -6,9 +6,6 @@
 /* ---- custom overrides below ---- */
 
 .site-header {
-  border-bottom: 1px solid #eee;
-  padding-bottom: 0.5em;
-  margin-bottom: 1em;
   /* cancel the theme's built-in sidebar behavior (header { width:270px; float:left; position:fixed; }) */
   float: none;
   width: auto;
@@ -22,22 +19,20 @@ section {
   margin: 0;
 }
 
-/* Row 1: title (left) + nav (right), always on one line */
+/* Row 1: title (left) + nav (right), always on one line, bar directly below it */
 .site-header-top {
   display: flex;
   justify-content: space-between;
   align-items: baseline;
   flex-wrap: wrap;
   gap: 0.5em 1em;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.5em;
+  margin-bottom: 1em;
 }
 
 .site-title {
   margin: 0;
-  font-size: 1.6em;
-}
-
-/* Compact header used on every page except the homepage: shrink the title */
-.site-header.compact .site-title {
   font-size: 1.2em;
 }
 
@@ -74,9 +69,6 @@ section {
   white-space: nowrap;
 }
 
-.site-nav a:hover {
-  text-decoration: underline;
-}
 .site-nav a:hover {
   text-decoration: underline;
 }
