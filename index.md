@@ -11,7 +11,7 @@ My main research interest is in model theory, and in its applications to (incide
 0. [A New Construction Principle](https://arxiv.org/abs/2505.10155) (with T. Hyttinen and G. Paolini), _Transactions of the American Mathematical Society_, accepted for publication. 
 0. [Some remarks on Husserl’s _Doppelvortrag_](https://doi.org/10.1007/s00407-026-00367-x), _Archive for History of Exact Sciences_, 2026, 80(13).
 0. [Algebraizable Weak Logics](https://doi.org/10.1017/jsl.2026.10180) (with G. Nakov), _Journal of Symbolic Logic_, 2026 ([arXiv preprint](https://arxiv.org/abs/2210.06047)). 
-0. [On the Model Theory of Second-Order Objects](https://arxiv.org/abs/2405.03785), (with T. Hyttinen and J. Puljujärvi), _Annals of Pure and Applied Logic_, accepted for publication.
+0. [On the Model Theory of Second-Order Objects](https://doi.org/10.1016/j.apal.2026.103824), _Annals of Pure and Applied Logic_, 2026.
 0. [Strictly n-finite varieties of Heyting algebras](https://doi.org/10.1017/jsl.2024.48) (with T. Hyttinen, M. Martins, T. Moraschini), _Journal of Symbolic Logic_, 2024.
 0. [Compactness in Team Semantics](https://onlinelibrary.wiley.com/doi/10.1002/malq.202200072) (with J. Puljujärvi), _Mathematical Logic Quarterly_, 70(142-161), 2024.
 0. [Esakia Duals of Regular Heyting Algebras](https://doi.org/10.1007/s00012-023-00833-5) (with G.  Grilletti), _Algebra Universalis_, 85(5), 2024.
