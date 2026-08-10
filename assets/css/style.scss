@@ -1,0 +1,53 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* ---- custom overrides below ---- */
+
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 0.5em;
+  margin-bottom: 1em;
+}
+
+.site-header-title h1 {
+  margin: 0;
+  font-size: 1.6em;
+}
+
+.site-header-title img {
+  max-width: 200px;
+  display: block;
+  margin: 0.5em 0;
+}
+
+/* Compact header used on every page except the homepage:
+   hides the photo/description, shrinks the title */
+.site-header.compact .site-header-title h1 {
+  font-size: 1.2em;
+}
+
+.site-header.compact .site-header-title img,
+.site-header.compact .site-header-title p {
+  display: none;
+}
+
+.site-nav {
+  display: flex;
+  gap: 1.2em;
+  flex-wrap: wrap;
+}
+
+.site-nav a {
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.site-nav a:hover {
+  text-decoration: underline;
+}
