@@ -24,11 +24,18 @@
           </nav>
         </div>
         {% if page.url == "/" %}
-          <div class="site-header-media">
-            {% if site.logo %}
-              <img src="{{ site.logo | relative_url }}" alt="Logo" />
+          <div class="home-intro">
+            <div class="site-header-media">
+              {% if site.logo %}
+                <img src="{{ site.logo | relative_url }}" alt="Logo" />
+              {% endif %}
+              <p>{{ site.description | default: site.github.project_tagline }}</p>
+            </div>
+            {% if page.intro %}
+              <div class="site-intro">
+                {{ page.intro | markdownify }}
+              </div>
             {% endif %}
-            <p>{{ site.description | default: site.github.project_tagline }}</p>
           </div>
         {% endif %}
         {% if site.show_downloads %}
