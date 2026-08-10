@@ -1,8 +1,3 @@
----
-title: Publications | Davide Emilio Quadrellaro
-permalink: /publications/
----
-
 ### Preprints
 - [The Construction Principle and superstability of free objects in varieties of algebras](https://arxiv.org/abs/2603.04067) (with T. Hyttinen and G. Paolini).
 - [Borel completeness of Tits buildings with no rank 3 residues of spherical type](https://arxiv.org/abs/2510.17630) (with G. Paolini).
