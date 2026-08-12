@@ -7,7 +7,7 @@
 0. [A New Construction Principle](https://arxiv.org/abs/2505.10155) (with T. Hyttinen and G. Paolini), <br>
    _Transactions of the American Mathematical Society_, accepted for publication.
 0. [Some remarks on Husserl’s _Doppelvortrag_](https://doi.org/10.1007/s00407-026-00367-x),<br>
-   _Archive for History of Exact Sciences_, 2026, 80(13).
+   _Archive for History of Exact Sciences_, 80(13), 2026.
 0. [Algebraizable Weak Logics](https://doi.org/10.1017/jsl.2026.10180) (with G. Nakov),<br>
 _Journal of Symbolic Logic_, 2026 ([arXiv preprint](https://arxiv.org/abs/2210.06047)).
 0. [On the Model Theory of Second-Order Objects](https://doi.org/10.1016/j.apal.2026.103824), <br>
@@ -15,7 +15,7 @@ _Annals of Pure and Applied Logic_, 2026.
 0. [Strictly n-finite varieties of Heyting algebras](https://doi.org/10.1017/jsl.2024.48) (with T. Hyttinen, M. Martins, T. Moraschini),<br>
 _Journal of Symbolic Logic_, 91(1), 2024.
 0. [Compactness in Team Semantics](https://onlinelibrary.wiley.com/doi/10.1002/malq.202200072) (with J. Puljujärvi),<br>
-_Mathematical Logic Quarterly_, 70(142-161), 2024.
+_Mathematical Logic Quarterly_, 70(2), 2024.
 0. [Esakia Duals of Regular Heyting Algebras](https://doi.org/10.1007/s00012-023-00833-5) (with G.  Grilletti), <br>
 _Algebra Universalis_, 85(5), 2024.
 0. [On Intermediate Inquisitive and Dependence Logics: An Algebraic Study](https://www.sciencedirect.com/science/article/pii/S0168007222000586), <br>
