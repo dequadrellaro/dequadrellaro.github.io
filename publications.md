@@ -13,7 +13,7 @@ _Journal of Symbolic Logic_, 2026 ([arXiv preprint](https://arxiv.org/abs/2210.0
 0. [On the Model Theory of Second-Order Objects](https://doi.org/10.1016/j.apal.2026.103824), <br>
 _Annals of Pure and Applied Logic_, 2026.
 0. [Strictly n-finite varieties of Heyting algebras](https://doi.org/10.1017/jsl.2024.48) (with T. Hyttinen, M. Martins, T. Moraschini),<br>
-_Journal of Symbolic Logic_, 2024.
+_Journal of Symbolic Logic_, 91(1), 2024.
 0. [Compactness in Team Semantics](https://onlinelibrary.wiley.com/doi/10.1002/malq.202200072) (with J. Puljujärvi),<br>
 _Mathematical Logic Quarterly_, 70(142-161), 2024.
 0. [Esakia Duals of Regular Heyting Algebras](https://doi.org/10.1007/s00012-023-00833-5) (with G.  Grilletti), <br>
