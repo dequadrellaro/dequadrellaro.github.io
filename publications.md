@@ -1,8 +1,4 @@
-<div class="centered-photo">
-  <img src="000055 (copy).jpg" alt="picture">
-</div>
-
-
+![picture](000055 (copy).jpg)
 
 
 
