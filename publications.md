@@ -18,7 +18,7 @@
 _Journal of Symbolic Logic_, 2026 ([arXiv preprint](https://arxiv.org/abs/2210.06047)).
 0. [On the Model Theory of Second-Order Objects](https://doi.org/10.1016/j.apal.2026.103824), <br>
 _Annals of Pure and Applied Logic_, 2026.
-0. [Strictly n-finite varieties of Heyting algebras](https://doi.org/10.1017/jsl.2024.48) (with T. Hyttinen, M. Martins, T. Moraschini),<br>
+0. [Strictly n-finite varieties of Heyting algebras](https://doi.org/10.1017/jsl.2024.48) (with T. Hyttinen, M. Martins and T. Moraschini),<br>
 _Journal of Symbolic Logic_, 91(1), 2024.
 0. [Compactness in Team Semantics](https://onlinelibrary.wiley.com/doi/10.1002/malq.202200072) (with J. Puljujärvi),<br>
 _Mathematical Logic Quarterly_, 70(2), 2024.
@@ -26,7 +26,7 @@ _Mathematical Logic Quarterly_, 70(2), 2024.
 _Algebra Universalis_, 85(5), 2024.
 0. [On Intermediate Inquisitive and Dependence Logics: An Algebraic Study](https://www.sciencedirect.com/science/article/pii/S0168007222000586), <br>
 _Annals of Pure and Applied Logic_, 173 (10), 2022.
-0. [An Algebraic Approach to Inquisitive and DNA-Logics](https://www.doi.org/10.1017/S175502032100054X) (with N. Bezhanishvili, G.  Grilletti), <br>
+0. [An Algebraic Approach to Inquisitive and DNA-Logics](https://www.doi.org/10.1017/S175502032100054X) (with N. Bezhanishvili and G.  Grilletti), <br>
 _Review of Symbolic Logic_, 15(4), 2022. ([Helda preprint](https://researchportal.helsinki.fi/files/176225977/An_Algebraic_Approach_to_Inquisitive_and_DNA_Logics.pdf))
 0. [Lattices of Intermediate Theories via Ruitenburg's Theorem](https://doi.org/10.1007/978-3-030-98479-3_15) (with G.  Grilletti), <br>
 In: Özgün, A., Zinova, Y. (eds) _Language, Logic, and Computation. TbiLLC 2019. Lecture Notes in Computer Science_, vol 13206, Springer, Cham, 2022. ([arXiv preprint](https://arxiv.org/abs/2004.00989))
