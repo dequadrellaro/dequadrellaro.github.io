@@ -1,5 +1,5 @@
 <div class="photo-row">
-  <img src="000055 (copy).jpg" alt="picture"  style="display: block; margin: 0 auto 1.5em auto;">
+  <img src="000055 (copy).jpg" alt="picture"  style="display: block; margin: 0 auto 1.5em auto; max-width: 1000px;">
 </div>
 
 
