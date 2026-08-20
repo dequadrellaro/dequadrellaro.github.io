@@ -80,6 +80,12 @@ section {
   height: auto;
 }
 
+.centered-photo {
+  display: block;
+  margin: 1.5 auto 1.5em auto;
+  max-width: 75%;
+}
+
 .site-nav a:hover {
   text-decoration: underline;
 }
