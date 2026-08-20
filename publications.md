@@ -1,6 +1,8 @@
-<div class="photo-row">
-  <img src="000055 (copy).jpg" alt="picture"  style="display: block; margin: 1.5em auto 1.5em auto; max-width: 1000px;">
+<div class="centered-photo">
+  <img src="000055 (copy).jpg" alt="picture">
 </div>
+
+
 
 
 
