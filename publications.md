@@ -1,7 +1,8 @@
 <div class="photo-row">
-  <img src="
-000055 (copy).jpg" alt="picture">
+  <img src="000055 (copy).jpg" alt="picture"  style="display: block; margin: 0 auto 1.5em auto;">
 </div>
+
+
 
 ### Preprints
 - [The Construction Principle and superstability of free objects in varieties of algebras](https://arxiv.org/abs/2603.04067) (with T. Hyttinen and G. Paolini).
