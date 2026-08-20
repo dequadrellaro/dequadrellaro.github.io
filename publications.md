@@ -1,4 +1,7 @@
-![picture](000055 (copy).jpg)
+<div class="centered-photo">
+  <img src="000055 (copy).jpg" alt="picture">
+</div>
+
 
 
 
