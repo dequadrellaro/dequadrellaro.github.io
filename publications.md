@@ -1,3 +1,8 @@
+<div class="photo-row">
+  <img src="
+000055 (copy).jpg" alt="picture">
+</div>
+
 ### Preprints
 - [The Construction Principle and superstability of free objects in varieties of algebras](https://arxiv.org/abs/2603.04067) (with T. Hyttinen and G. Paolini).
 - [Borel completeness of Tits buildings with no rank 3 residues of spherical type](https://arxiv.org/abs/2510.17630) (with G. Paolini).
