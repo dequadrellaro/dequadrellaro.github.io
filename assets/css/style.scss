@@ -70,6 +70,16 @@ section {
   white-space: nowrap;
 }
 
+.photo-row {
+  display: flex;
+  gap: 0.5em;
+  flex-wrap: wrap;
+}
+.photo-row img {
+  max-width: 32%;
+  height: auto;
+}
+
 .site-nav a:hover {
   text-decoration: underline;
 }
