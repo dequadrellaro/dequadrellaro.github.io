@@ -25,7 +25,7 @@ _Mathematical Logic Quarterly_, 70(2), 2024.
 0. [Esakia Duals of Regular Heyting Algebras](https://doi.org/10.1007/s00012-023-00833-5) (with G.  Grilletti), <br>
 _Algebra Universalis_, 85(5), 2024.
 0. [On Intermediate Inquisitive and Dependence Logics: An Algebraic Study](https://www.sciencedirect.com/science/article/pii/S0168007222000586), <br>
-_Annals of Pure and Applied Logic_, 173 (10), 2022.
+_Annals of Pure and Applied Logic_, 173(10), 2022.
 0. [An Algebraic Approach to Inquisitive and DNA-Logics](https://www.doi.org/10.1017/S175502032100054X) (with N. Bezhanishvili and G.  Grilletti), <br>
 _Review of Symbolic Logic_, 15(4), 2022. ([Helda preprint](https://researchportal.helsinki.fi/files/176225977/An_Algebraic_Approach_to_Inquisitive_and_DNA_Logics.pdf))
 0. [Lattices of Intermediate Theories via Ruitenburg's Theorem](https://doi.org/10.1007/978-3-030-98479-3_15) (with G.  Grilletti), <br>
