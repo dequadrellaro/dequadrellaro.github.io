@@ -6,8 +6,10 @@ intro: |
   
   My main research interest is in model theory, and in its applications to (incidence) geometry and (universal) algebra. My recent preprints are available in [arXiv](https://arxiv.org/search/?searchtype=author&query=Quadrellaro%2C+D+E) and my published work is generally listed in [zbMath](https://zbmath.org/authors/quadrellaro.davide-emilio). My Orcid ID is [0000-0002-3750-3627](https://orcid.org/0000-0002-3750-3627). 
 
+  To send me an email, write first davide[dot]quadrellaro and then put [at]posteo[dot]it.
 
-  <div align="center" style="margin-top: 2.5em; margin-bottom: 2.5em;">
+
+  <div align="right" style="margin-top: 2.5em; margin-bottom: 2.5em;">
     <a href="https://www.inventati.org/campaign/defend">
       <img src="resist.jpg" alt="picture" width="40%">
     </a>
