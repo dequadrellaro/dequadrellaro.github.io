@@ -10,6 +10,8 @@ intro: |
   
   Email: write first davide[dot]quadrellaro and then put [at]posteo[dot]it.
 
+---
+
 
   <div align="center" style="margin-top: 2.5em; margin-bottom: 2.5em;">
     <a href="https://www.inventati.org/campaign/defend">
@@ -17,4 +19,4 @@ intro: |
     </a>
   </div>
 
----
+
