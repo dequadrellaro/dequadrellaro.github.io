@@ -15,7 +15,7 @@ intro: |
 
   <div align="center" style="margin-top: 2.5em; margin-bottom: 2.5em;">
     <a href="https://www.inventati.org/campaign/defend">
-      <img src="resist.jpg" alt="picture" width="40%">
+      <img src="resist.jpg" alt="picture" width="30%">
     </a>
   </div>
 
