@@ -1,6 +1,6 @@
 ---
 permalink: /
----
+intro: |
 
   Hi! I am a mathematical logician, currently working as a postdoc at the [Algebra Group](https://www.dmg.tuwien.ac.at/fb1/UA.html) of the Technische Universität Wien. Beforehand, I was a postdoc at the [Turin Logic Group](https://www.logicgroup.altervista.org/torino/index.php?lng=eng) and a PhD at the [Helsinki Logic Group](https://wiki.helsinki.fi/xwiki/bin/view/Logic/Home). 
   
@@ -12,3 +12,5 @@ permalink: /
       <img src="resist.jpg" alt="picture" width="40%">
     </a>
   </div>
+
+---
