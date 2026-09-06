@@ -7,17 +7,8 @@ permalink: /blog/
 </div>
 
 
-<p><a href="{{ "/feed.xml" | absolute_url }}">Subscribe via RSS</a></p>
+<p><a href="{{ "/feed.xml" | absolute_url }}" class="rss-link">Subscribe via RSS</a></p>
 
-<ul class="post-list">
-{% for post in site.posts %}
-  <li>
-    <span class="post-list-date">{{ post.date | date: "%B %-d, %Y" }}</span>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-  </li>
-{% endfor %}
-</ul>
- 
 <ul class="post-list">
 {% for post in site.posts %}
   <li>
