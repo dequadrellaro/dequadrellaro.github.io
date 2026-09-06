@@ -119,12 +119,16 @@ section {
 
 .post {
   max-width: 700px;
-  margin: 0 auto;
+  margin: 2em auto 0 auto;
   font-size: 1.1em;
   line-height: 1.6;
 }
 
 .post p {
   margin-bottom: 1em;
+}
+
+.post-list {
+  margin-top: 2em;
 }
 
