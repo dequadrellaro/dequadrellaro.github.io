@@ -19,7 +19,7 @@ permalink: /blog/
 {% endfor %}
 </ul> --->
  
-{% for post in site.posts limit:10 %}
+{% for post in site.posts limit:5 %}
 <article class="post-entry">
   <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
