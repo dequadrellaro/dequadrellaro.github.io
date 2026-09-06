@@ -3,7 +3,7 @@ permalink: /blog/
 ---
 
 <div align="center" style="margin-top: 1.5em; margin-bottom: 1.5em;">
-  <img src="000055 (copy).jpg" alt="picture" width="75%">
+  <img src="/000055 (copy).jpg" alt="picture" width="75%">
 </div>
  
 <ul class="post-list">
