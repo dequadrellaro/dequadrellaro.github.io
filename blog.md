@@ -2,9 +2,9 @@
 permalink: /blog/
 ---
 
-<div align="center" style="margin-top: 1.5em; margin-bottom: 1.5em;">
+<!-- <div align="center" style="margin-top: 1.5em; margin-bottom: 1.5em;">
   <img src="/assets/images/photo:blog.jpg" alt="picture" width="75%">
-</div>
+</div> --->
 
 
 <p style="text-align: center;"><a href="{{ "/feed.xml" | absolute_url }}" class="rss-link">Subscribe via RSS</a></p>
