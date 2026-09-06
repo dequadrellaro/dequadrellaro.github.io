@@ -133,6 +133,20 @@ section {
   margin-top: 2em;
 }
 
+.post-entry {
+  max-width: 700px;
+  margin: 0 auto;
+  font-size: 1.1em;
+  line-height: 1.6;
+}
+
+.post-divider {
+  max-width: 700px;
+  margin: 2em auto;
+  border: none;
+  border-top: 1px solid #eee;
+}
+
 .rss-link {
   font-size: 1.1em;
 }
