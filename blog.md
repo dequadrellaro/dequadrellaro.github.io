@@ -7,7 +7,7 @@ permalink: /blog/
 </div> 
 
 
-<p style="text-align: center;"><a href="{{ "/feed.xml" | absolute_url }}" class="rss-link">Subscribe via RSS</a> | <a href="/archive" class="rss-link" >Archive</a> </p>
+<p style="text-align: center;"><a href="{{ "/feed.xml" | absolute_url }}" class="rss-link">Subscribe via RSS</a> | <a href="/archive" class="rss-link" >Blog Archive</a> </p>
 
 
 <!--  <ul class="post-list">
@@ -28,4 +28,4 @@ permalink: /blog/
 <hr class="post-divider">
 {% endfor %}
 
-A full list of past posts can be found in the [archive](/archive).
+<!--  A full list of past posts can be found in the [archive](/archive). --->
