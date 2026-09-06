@@ -3,3 +3,6 @@ logo:  	assets/images/photo:personal.jpg
 description: <p>   </p>    <br>
               
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-feed
