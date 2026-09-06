@@ -89,3 +89,33 @@ section {
 .site-nav a:hover {
   text-decoration: underline;
 }
+
+/* ---- blog additions ---- */
+ 
+.post-list {
+  list-style: none;
+  padding: 0;
+}
+ 
+.post-list li {
+  margin-bottom: 0.6em;
+}
+ 
+.post-list-date {
+  color: #767676;
+  margin-right: 0.6em;
+  font-size: 0.9em;
+}
+ 
+.post-title {
+  margin-bottom: 0.1em;
+}
+ 
+.post-meta {
+  color: #767676;
+  font-size: 0.9em;
+  margin-top: 0;
+  margin-bottom: 1.5em;
+}
+ 
+
