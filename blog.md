@@ -7,7 +7,7 @@ permalink: /blog/
 </div> 
 
 
-<p style="text-align: center;"><a href="{{ "/feed.xml" | absolute_url }}" class="rss-link">Subscribe via RSS</a></p>
+<p style="text-align: center;"><a href="{{ "/feed.xml" | absolute_url }}" class="rss-link">Subscribe via RSS</a>< | [Blog Archive](/archive) /p>
 
 
 <!--  <ul class="post-list">
