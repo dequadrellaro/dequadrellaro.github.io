@@ -18,8 +18,6 @@ permalink: /blog/
 {% endfor %}
 </ul> --->
  
- 
-<p class="rss-link-wrapper" style="text-align: center;"><a href="{{ "/feed.xml" | absolute_url }}" class="rss-link">Subscribe via RSS</a></p>
 {% for post in site.posts limit:10 %}
 <article class="post-entry">
   <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
