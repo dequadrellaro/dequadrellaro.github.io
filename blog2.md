@@ -1,5 +1,5 @@
 ---
-permalink: /blog/
+permalink: /blog2/
 ---
 
 <div align="center" style="margin-top: 1.5em; margin-bottom: 1.5em;">
