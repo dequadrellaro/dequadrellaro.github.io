@@ -11,7 +11,7 @@ intro: |
   Email: write first davide[dot]quadrellaro and then put [at]posteo[dot]it.
 
   <div align="center" style="margin-top: 1.5em; margin-bottom: 2.5em;">
-    <a href="https://www.inventati.org/campaign/defend">
+    <a href="https://keepitfree.ai/">
       <img src="assets/images/resist.jpg" alt="picture" width="30%">
     </a>
   </div>
