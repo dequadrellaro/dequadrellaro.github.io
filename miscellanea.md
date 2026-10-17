@@ -8,6 +8,12 @@ Osare l'impossibile, osare, osare perdere<br>
 Grande l'impossibile, osare la confusione<br> 
 Il cielo è sopra e sotto<br> 
 Ci si può solo perdere, ci si può solo perdere<br> 
+Ci si può solo perdere <br> <br> 
+
+Grande l'impossibile, osare la confusione<br> 
+Il cielo è sopra e sotto<br> 
+Ci si può solo perdere, ci si può solo perdere<br> 
 Ci si può solo perdere <br> 
+
 <sub><a href="https://www.youtube.com/watch?v=Myg7HgophZ4">Manifesto — CCCP</a></sub> 
 </div>`
