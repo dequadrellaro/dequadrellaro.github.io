@@ -16,7 +16,7 @@
    _Archive for History of Exact Sciences_, 80(13), 2026.
 0. [Algebraizable Weak Logics](https://doi.org/10.1017/jsl.2026.10180) (with G. Nakov),<br>
 _Journal of Symbolic Logic_, 2026 ([arXiv preprint](https://arxiv.org/abs/2210.06047)).
-0. [On the Model Theory of Second-Order Objects](https://doi.org/10.1016/j.apal.2026.103824), <br>
+0. [On the Model Theory of Second-Order Objects](https://doi.org/10.1016/j.apal.2026.103824) (with T. Hyttinen and J. Puljujärvi),<br>
 _Annals of Pure and Applied Logic_, 2026.
 0. [Strictly n-finite varieties of Heyting algebras](https://doi.org/10.1017/jsl.2024.48) (with T. Hyttinen, M. Martins and T. Moraschini),<br>
 _Journal of Symbolic Logic_, 91(1), 2024.
