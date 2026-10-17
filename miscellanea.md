@@ -2,14 +2,12 @@
   <img src="assets/images/photo:miscellanea.jpg" alt="picture" width="75%">
 </div>
 
-<div align="center" style="margin-top: 1.5em; margin-bottom: 1.5em;">
-
-Grande è la confusione sopra e sotto il cielo \
-Osare è impossibile, osare, osare è perdere  \
-Grande l'impossibile, osare è la confusione  \
-Il cielo è sopra e sotto  \
-Ci si può solo perdere, ci si può solo perdere  \
+<div align="center"> 
+Grande è la confusione sopra e sotto il cielo<br> 
+Osare è impossibile, osare, osare è perdere<br> 
+Grande l'impossibile, osare è la confusione<br> 
+Il cielo è sopra e sotto<br> 
+Ci si può solo perdere, ci si può solo perdere<br> 
 Ci si può solo perdere
-
-[Manifesto - CCCP](https://www.youtube.com/watch?v=Myg7HgophZ4)
-</div>
+<sub><a href="https://www.youtube.com/watch?v=Myg7HgophZ4">Manifesto — CCCP</a></sub> 
+</div>`
