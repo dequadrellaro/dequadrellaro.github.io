@@ -3,7 +3,7 @@
 </div>
 
 <div align="center"> 
-Grande è la confusione sopra e sotto il cielo<br> 
+Grande è la confusione, sopra e sotto il cielo<br> 
 Osare l'impossibile, osare, osare perdere<br> 
 Grande l'impossibile, osare la confusione<br> 
 Il cielo è sopra e sotto<br> 
