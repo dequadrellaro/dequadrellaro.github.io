@@ -16,4 +16,4 @@ Ci si può solo perdere, ci si può solo perdere<br>
 Ci si può solo perdere <br> 
 
 <sub><a href="https://www.youtube.com/watch?v=Myg7HgophZ4">Manifesto — CCCP</a></sub> 
-</div>`
+</div>
