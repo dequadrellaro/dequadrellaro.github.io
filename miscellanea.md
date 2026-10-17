@@ -4,10 +4,10 @@
 
 <div align="center"> 
 Grande è la confusione sopra e sotto il cielo<br> 
-Osare è impossibile, osare, osare è perdere<br> 
-Grande l'impossibile, osare è la confusione<br> 
+Osare l'impossibile, osare, osare perdere<br> 
+Grande l'impossibile, osare la confusione<br> 
 Il cielo è sopra e sotto<br> 
 Ci si può solo perdere, ci si può solo perdere<br> 
-Ci si può solo perdere
+Ci si può solo perdere <br> 
 <sub><a href="https://www.youtube.com/watch?v=Myg7HgophZ4">Manifesto — CCCP</a></sub> 
 </div>`
